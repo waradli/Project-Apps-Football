@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project_App_1</string>
+    <string name="HomeScreen">Home</string>
+    <string name="DetailScreen">Detail</string>
+    <string name="AboutScreen">About</string>
+</resources>
